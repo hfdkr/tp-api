@@ -91,5 +91,5 @@ router.delete("/:id", (req, res) => {
 
 });
 
-
+export {livres};
 export default router;

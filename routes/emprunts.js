@@ -80,4 +80,6 @@ router.post("/", (req, res) => {
 
 });
 
+
+export {emprunts};
 export default router;
